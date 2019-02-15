@@ -10,7 +10,8 @@ public class Move : MonoBehaviour
         
     }
 
- // Egor say boob
+ //Boob
+
     void Update()
     {
         
